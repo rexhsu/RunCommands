@@ -1,0 +1,9 @@
+[user]
+	email = justmake2003@yahoo.com.tw 
+	name = rexhsu
+[alias]
+	st = status
+	co = commit
+	di = diff	
+[core]
+	pager = less -r
