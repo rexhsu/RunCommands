@@ -2,6 +2,7 @@
 	email = justmake2003@yahoo.com.tw 
 	name = rexhsu
 [alias]
+	pus = push
 	st = status
 	co = commit
 	di = diff	
